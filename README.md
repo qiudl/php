@@ -13,13 +13,6 @@
 - [博客](#博客)
 - [知识图谱](#知识图谱)
 
-## 加群交流
-
-微信群"PHP开发交流群"
-
-由于微信群的限制，超过 100 人就不能扫码加群。所以可以先关注我公众号，然后发送 `PHP开发`，按照提示一步一步加群。
-
-![PHP开发交流区群](http://img.blog.csdn.net/20161229104305784?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjg4MzIxMzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 因为下面的视频教程大多数在我的云盘上存着，而且公开分享有可能获取不到，遇到这种情况也可以加群，进群之后我重新给你发链接，同时在这边及时更新。
 
