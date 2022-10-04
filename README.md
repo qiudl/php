@@ -77,6 +77,52 @@
   
  达到上面这些程度的，可以说你已经很厉害了，带领一个小团队基本不成问题。但是如果我想成为业内的大神该怎么办呢？这个时候你就需要往更深的程度发展了，比如说服务器，PHP原理什么的，因为我自己也在摸索，所以对于更高的程度也。。。。。
 
+## tutorial
+https://www.guru99.com/php-tutorials.html
+
+ust a full form of PHP would be enough to learn this course. This tutorial is designed for beginners with little or no PHP experience.
+
+PHP Training Syllabus
+PHP Fundamentals
+👉 Lesson 1	What is PHP? — Write your first PHP Program
+👉 Lesson 2	How to install XAMPP on Windows — Download & Install XAMPP on Windows
+👉 Lesson 3	PHP Data Types — Data Types, Variables, Constant, Operators in PHP
+👉 Lesson 4	PHP Comments — Include/Include_once, Require/Require_once
+👉 Lesson 5	PHP Array — Associative, Multidimensional
+Lets introduce some Logic!
+👉 Lesson 1	PHP Control Structures — If else, Switch Case
+👉 Lesson 2	PHP Loop — For, ForEach, While, Do While [Example]
+👉 Lesson 3	PHP Strings — PHP String Functions Explained with Examples
+👉 Lesson 4	PHP Function — How to Define? Built in | String | User Defined
+👉 Lesson 5	Registration form in PHP — PHP Registration Form using GET, POST Methods
+👉 Lesson 6	PHP Session & Cookies — Learn with Example
+👉 Lesson 7	PHP File() Function — File_exists, Fopen, Fwrite, Fclose, Fgets, copy, unlink
+👉 Lesson 8	Exception & Error Handling Tutorial — PHP Try Catch Example
+👉 Lesson 9	PHP Regular Expression/Regex — preg_match() | preg_replace()
+Advance Stuff
+👉 Lesson 1	PHP mail() Function — How to Send Email using PHP mail() Function
+👉 Lesson 2	PHP MySQLi Functions — mysqli_query, mysqli_connect, mysqli_fetch_array
+👉 Lesson 3	OOPS Concepts in PHP — PHP Object Oriented Programming concept Tutorial
+👉 Lesson 4	PHP Date() & Time Function — How to Get Current Timestamp?
+👉 Lesson 5	PHP Security Function — strip_tags, filter_var, Md5 and sha1
+👉 Lesson 6	PHP XML Tutorial — Create, Parse, Read with Example
+👉 Lesson 7	XML Tutorial for Beginners — Learn with Example
+Your First PHP project!
+👉 Lesson 1	PHP Projects — Create an Opinion Poll Application
+👉 Lesson 2	PHP Ajax Tutorial — Learn with Example
+👉 Lesson 3	PHP MVC Framework Tutorial — CodeIgniter Example
+👉 Lesson 4	CakePHP Tutorial for Beginners — What is, Why Use & Features
+Check!
+👉 Lesson 1	PHP vs JavaScript — Must Know Differences
+👉 Lesson 2	Laravel Tutorial — Laravel PHP Framework Tutorial for Beginners
+👉 Lesson 3	Laravel Interview Questions — Top 91 Laravel Interview Questions & Answers
+👉 Lesson 4	PHP Live Project Training — Free PHP Live Project Training in Real Time
+👉 Lesson 5	PHP Interview Questions — Top 100 PHP Interview Questions and Answers
+👉 Lesson 6	Best PHP IDE — 20 BEST PHP IDE and Code Editor Software
+👉 Lesson 7	PHP Books — 12 BEST PHP Books
+👉 Lesson 8	Web Development Courses — 85 Best Web Development Courses
+👉 Lesson 9	PHP Tutorial PDF — Download PHP Tutorial PDF for Beginners
+
 
 
 ## 官方文档
